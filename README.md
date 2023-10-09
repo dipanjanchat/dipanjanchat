@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanjanchat" alt="dipanjanchat"></a> </p>
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="loading..." align="right" width="400">
 
-- 🌱<strong>I’m currently learning :</strong> <em>Python,Java</em><br>
--🎥<strong><em>I love Hollywoood Movies</em><em>raps,coldplay</em>,<em>horror,mythology</em></strong>
--🍿<strong>love to watch <em>anime(naruto_fan)</em></strong><br>
--⚡<strong> Fun fact: </strong>**IWhen I'm in anxiety and depressed, I use slangs and become Kabir Singh**<br>
-
+<li> 🌱<strong>I’m currently learning :</strong> <em>Python,Java</em></li>
+<li>🎥<strong><em>I love Hollywoood Movies</em><em>raps,coldplay</em>,<em>horror,mythology</em></strong></li>
+<li>🍿<strong>love to watch <em>anime(naruto_fan)</em></strong></li>
+<li>⚡<strong> Fun fact: </strong>**IWhen I'm in anxiety and depressed, I use slangs and become Kabir Singh**</li>
+<br>
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="center"><a href="https://fb.com/dipanjan chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipanjan chatterjee" height="30" width="40" /></a>
@@ -29,17 +29,14 @@
 
 ## Github Stats:
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanjanchat&" alt="dipanjanchat" />&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanjanchat&show_icons=true&locale=en" alt="dipanjanchat" /><br><br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZjdWVreXZyOHlucnZyaXVyZWtoeDBkYWI5ejZmeWxwMHFtcHI5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="500">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanjanchat&theme=blue-green" alt="dipanjanchat" />&nbsp;
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanjanchat&theme=dracula&show_icons=true&locale=en" alt="dipanjanchat" /><br><br>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanjanchat&show_icons=true&locale=en&layout=compact" alt="dipanjanchat" /><br><br></p>
+<p  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanchat&theme=tokyonight"/>
 
 <br><br>
 <img src="https://ph-files.imgix.net/30cf9e34-8707-4d08-8b0f-a96c358e55e2.gif?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1" height=300 width=60% align="center">
-
-#
-<h2 align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Showcard+Gothic&size=29&pause=1000&color=6CF7DE&center=true&vCenter=true&width=1000&height=100&lines=Thanks+For+Visiting+Guys%F0%9F%A4%9E%F0%9F%91%8D;If+you+think+there+is+a+mistake+somewhere%2Cplease+fix+it+%F0%9F%98%84%F0%9F%98%83;Don't+forgot+to+comment+and+giving+feedback+%F0%9F%98%89" alt="Typing SVG" />
-</a>
-</h2>
