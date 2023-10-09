@@ -1,4 +1,5 @@
 ![logo](https://github.com/dipanjanchat/dipanjanchat/blob/main/WhatsApp%20Image%202023-10-09%20at%204.59.36%20PM.jpeg )
+
 <h1 align="center">Hi 👋, I'm Coding Ninja</h1>
 <h3 align="center">A passionate student from India...</h3>
 
@@ -13,23 +14,32 @@
 -⚡<strong> Fun fact: </strong>**IWhen I'm in anxiety and depressed, I use slangs and become Kabir Singh**<br>
 
 <h3 align="left">Connect with me:</h3>
-
+<hr>
 <p align="center"><a href="https://fb.com/dipanjan chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipanjan chatterjee" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/dipanjan_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanjan_2003" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/@dipanjan0098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dipanjan0098" height="30" width="40" /></a>
-  <a href="trustchatterjee24@gmail.com"><img align="center" alt="trustchatterjee24@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</p></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
 
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+## Github Stats:
+<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanjanchat&" alt="dipanjanchat" />&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanjanchat&show_icons=true&locale=en" alt="dipanjanchat" /><br><br>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanjanchat&show_icons=true&locale=en&layout=compact" alt="dipanjanchat" /><br><br></p>
+
 <br><br>
 <img src="https://ph-files.imgix.net/30cf9e34-8707-4d08-8b0f-a96c358e55e2.gif?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1" height=300 width=60% align="center">
+
+#
+<h2 align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Showcard+Gothic&size=29&pause=1000&color=6CF7DE&center=true&vCenter=true&width=1000&height=100&lines=Thanks+For+Visiting+Guys%F0%9F%A4%9E%F0%9F%91%8D;If+you+think+there+is+a+mistake+somewhere%2Cplease+fix+it+%F0%9F%98%84%F0%9F%98%83;Don't+forgot+to+comment+and+giving+feedback+%F0%9F%98%89" alt="Typing SVG" />
+</a>
+</h2>
