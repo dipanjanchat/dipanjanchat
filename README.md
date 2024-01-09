@@ -1,4 +1,4 @@
-![logo](https://github.com/dipanjanchat/dipanjanchat/blob/main/WhatsApp%20Image%202023-10-09%20at%204.59.36%20PM.jpeg )
+![logo](https://github.com/dipanjanchat/dipanjanchat/blob/main/CODING.png)
 
 <h1 align="center">Hi 👋, I'm Coding Ninja</h1>
 <h3 align="center">A passionate student from India...</h3>
