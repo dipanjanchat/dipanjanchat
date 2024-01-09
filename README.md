@@ -1,6 +1,6 @@
 ![logo](https://github.com/dipanjanchat/dipanjanchat/blob/main/CODING.png)
 
-<h1 align="center">Hi 👋, I'm Coding Ninja</h1>
+<h1 align="center">Hi 👋, I'm Coding Shinobi</h1>
 <h3 align="center">A passionate student from India...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanjanchat&label=Profile%20views&color=0e75b6&style=flat" alt="dipanjanchat"> </p>
