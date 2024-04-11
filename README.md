@@ -10,8 +10,8 @@
 <li> 🌱<strong>I’m currently learning :</strong> <em>Python,Java</em></li>
 <li>🎥<strong><em>I love Hollywoood Movies</em><em>raps,coldplay</em>,<em>horror,mythology</em></strong></li>
 <li>🍿<strong>love to watch <em>anime(naruto_fan)</em></strong></li>
-<li>⚡<strong> Fun fact: </strong>**IWhen I'm in anxiety and depressed, I take Sprite 🥫**</li>
-<br>
+<li>⚡<strong> Fun fact: </strong>**When I'm in anxiety and depressed, I take Sprite 🥫**</li>
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="center"><a href="https://fb.com/dipanjan chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipanjan chatterjee" height="30" width="40" /></a>
